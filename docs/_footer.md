@@ -1,2 +1,1 @@
-Create 2018 - footer
-dasdasdasdasd
+Create 2018  footer
