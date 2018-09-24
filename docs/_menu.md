@@ -3,4 +3,4 @@
 * [Pricing](pricing)
 * [More Porjects](more)
 * [Download](donwload)
-* [Github](https://github.com/patspa3/lsacreator-docs class="hidden-md-up")
+* [Github](https://github.com/patspa3/lsacreator-docs hidden-md-up)
