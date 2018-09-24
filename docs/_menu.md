@@ -3,4 +3,3 @@
 * [Pricing](pricing)
 * [More Porjects](more)
 * [Download](donwload)
-* [Github](https://github.com/patspa3/lsacreator-docs)
