@@ -16,6 +16,7 @@ See the [Quick start](quickstart.md) for more details.
 * You do NOT have to manage ResX files in Visual Studio.
 * Supports localization of assemblies written in any .NET language like C#, VB, C++/CLI, …
 * Allows to create translation even by end-user without any knowledge about program structure.
+
 ### Easy localization
 * Dialog preview for Windows.Forms.
 * Control software localization progress with clear statistics.
@@ -25,16 +26,19 @@ See the [Quick start](quickstart.md) for more details.
 * Provides efortless team work with revision control systems.
 * Uses single project to translates your application to any number of languages.
 * Assembly post-build scripts.
+
 ### Automatic transations
 * Integrated with Google Translate.
 * Uses Dictionary Translation.
 * Checks and reduces translations costs by using smart query optimalization.
 * Exports translations and builds your own dictionary to reuse it to other projects.
+
 ### Powerful grid editing
 * Multilevel Undo/Redo.
 * Offers simple and intuitive user interface.
 * Displays all or selected language in one grid view with one column per language.
 * The grid offers sorting and filtering functionality on every column.
+
 ### Quality and transation status
 * Multilevel Undo/Redo.
 * Offers simple and intuitive user interface.
