@@ -2,4 +2,4 @@
 * [Get started](#docs)
 * [Pricing](pricing)
 * [More Porjects](more)
-* [Download](donwload)
+* [Download](download)
