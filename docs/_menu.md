@@ -1,5 +1,5 @@
 * [Home](home)
 * [Get started](#docs)
-* [Pricing](pricing)
+* [Pricing](purchase)
 * [More Porjects](more)
 * [Download](download)
